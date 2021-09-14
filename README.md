@@ -1,3 +1,3 @@
-Hi I'm jeremy!
+ ![cheese](/cheese.jpg)
 
 
