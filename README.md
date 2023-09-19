@@ -1,8 +1,20 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2>
+  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+</h2>
 
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<p>
+  I am Jeremy Mees 😃. I am from Belgium, Hasselt and currently working for Appeel.io. I love to explore and learn about new things.
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-jeremymees-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeremymees/)](https://www.linkedin.com/in/jeremy-mees-65324220b/)
-[![Gmail Badge](https://img.shields.io/badge/-jeremymees123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeremymees123@gmail.com)](mailto:jeremymees123@gmail.com)
+<p>
+  Things i work with the most
+</p>
 
-I am Jeremy Mees 😃. I am from Belgium, Hasselt and currently working for Appeel.io. I love to explore and learn about new things.
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremymees&theme=github_dark&layout=donut" />
+</p>
+
+<p>
+  Contact me
+</p>
+<a href="https://www.linkedin.com/in/jeremymees/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
