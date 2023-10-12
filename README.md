@@ -1,20 +1,9 @@
-<h2>
-  𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-</h2>
+# About Me:
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I am Jeremy . I am from Belgium, Hasselt and currently working for Appeel.io. During my free time, I'm passionately crafting a Dungeons & Dragons encounter tracker, aptly named [DnD-Tracker](https://dnd-tracker.com). In addition to that, I thoroughly enjoy engaging in board game sessions with friends, fostering memorable moments of camaraderie and strategy.
 
-<p>
-  I am Jeremy Mees 😃. I am from Belgium, Hasselt and currently working for Appeel.io. I love to explore and learn about new things.
-</p>
+# GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeremymees\&theme=github_dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeremymees\&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)
 
-<p>
-  Things i work with the most
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeremymees&theme=github_dark&layout=donut" />
-</p>
-
-<p>
-  Contact me
-</p>
-<a href="https://www.linkedin.com/in/jeremymees/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0A66C2?&style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+## GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=jeremymees\&theme=github_dark&no-frame=true&no-bg=true&margin-w=4)
